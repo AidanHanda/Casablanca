@@ -184,3 +184,5 @@ dmypy.json
 .prof
 
 # End of https://www.toptal.com/developers/gitignore/api/python,c++,bazel
+.DS_Store
+.vscode
